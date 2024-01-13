@@ -1,5 +1,4 @@
 # JavaLab3
-# Lab3 Report by Mikhail Ivanov - Intersection 1
 
 ## Description
 
